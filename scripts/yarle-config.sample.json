@@ -1,0 +1,15 @@
+{
+  "enexSources": ["__ENEX_DIR__"],
+  "outputDir": "__OUT_DIR__",
+  "keepOriginalHtml": false,
+  "isMetadataNeeded": true,
+  "isNotebookNameNeeded": false,
+  "skipWebClips": false,
+  "useHashTags": true,
+  "nestedTags": { "separatorInEN": "_", "replaceSeparatorWith": "/", "replaceSpaceWith": "-" },
+  "outputFormat": "OBSIDIAN",
+  "useUniqueUnknownFileNames": true,
+  "monkeyPatchDuplicateTitles": true,
+  "sanitizeResourceNameSpaces": true,
+  "replacementChar": "_"
+}

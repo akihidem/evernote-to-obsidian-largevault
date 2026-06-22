@@ -1,4 +1,18 @@
-# Evernote 11,000ノートを Obsidian へ無損失移行する — 大容量 × iCloud で踏んだ6つの罠
+---
+title: "Evernote 11,000ノートを Obsidian へ無損失移行する — 大容量 × iCloud で踏んだ6つの罠"
+tags:
+  - Evernote
+  - Obsidian
+  - Markdown
+  - 移行
+  - iCloud
+private: false
+updated_at: ""
+id: null
+organization_url_name: null
+slide: false
+ignorePublish: false
+---
 
 ## TL;DR
 
